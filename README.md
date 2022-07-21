@@ -10,7 +10,9 @@
   ### * [Installation](#installation)
   ### * [Usage](#usage)
   ### * [Author](#author)
+  ### * [Video](#video)
   ### * [License](#license)
+
 
   ## Project Description: 
 ### The application is a back end server for an E-commerce website that allows the user to use latest technologies and add information into a database. The technologies used to create the app: Sequelize models to sync to MySQL database, Express API routes with CRUD, and dotenv to access the database from the machine. 
@@ -34,6 +36,10 @@
 
 - Gmail: [Michael Thai](mailto:https://michaelthai16@gmail.com)
 - Github: [@tydomx](https://github.com/tydomx)
+
+## Video
+Video shown at: [E-Commerce Back End Video](https://www.youtube.com/watch?v=3uwIduVED7Y&feature=youtu.be)
+
 
 
 ## 📝 License
